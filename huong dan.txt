@@ -1,0 +1,18 @@
+https://github.com/Noname-dev450/hocky2_baimodau.git\
+=====================================================
+lan dau lam chuyen git
+=====================================================
+echo "# hocky2_baimodau" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Noname-dev450/hocky2_baimodau.git
+git push -u origin main
+===========================================================================
+tai len lai lan thu 2 tro di len hocky2_baimodau
+===========================================================================
+git remote add origin https://github.com/Noname-dev450/hocky2_baimodau.git
+git branch -M main
+git push -u origin main
+==========================================================================
